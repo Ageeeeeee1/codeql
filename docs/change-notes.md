@@ -1,4 +1,4 @@
-# Adding change notes for query and library changes
+    # Adding change notes for query and library changes
 
 Each CodeQL query pack or library pack has its own change log to track how that pack changes with each release. Any non-trivial, user-visible change to a query or library should add a change note to the affected pack. This document describes how to do that.
 
